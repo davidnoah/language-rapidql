@@ -1,0 +1,17 @@
+'scopeName': 'source.rapidql'
+'name': 'RapidQL'
+'fileTypes': ['rql']
+
+'patterns': [
+    {
+      'match': '\\b(([0-9]+\\.?[0-9]*)|(\\.[0-9]+))\\b'
+      'name': 'constant.numeric.mylanguage'
+    },
+    {
+        # Second rule
+    },
+    # …
+    {
+        # Last rule
+    }
+]
