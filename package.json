@@ -1,0 +1,17 @@
+{
+  "name": "language-rapidql",
+  "version": "0.0.0",
+  "description": "RapidQL language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidnoah/language-rapidql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidnoah/language-rapidql.git/issues"
+  },
+  "license": "MIT"
+}
