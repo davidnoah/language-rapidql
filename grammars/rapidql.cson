@@ -9,6 +9,6 @@
     },
     {
       'name': 'keyword.control.untitled',
-      'match': '\b(RapidAPI|while|for|return)\b'
+      'match': '\b(RapidAPI|MongoDB)\b'
     }
 ]
