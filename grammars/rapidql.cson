@@ -5,13 +5,10 @@
 'patterns': [
     {
       'match': '\\b(([0-9]+\\.?[0-9]*)|(\\.[0-9]+))\\b'
-      'name': 'constant.numeric.mylanguage'
+      'name': 'constant.numeric.rql'
     },
     {
-        # Second rule
-    },
-    # …
-    {
-        # Last rule
+      'name': 'keyword.control.untitled',
+      'match': '\b(RapidAPI|while|for|return)\b'
     }
 ]
